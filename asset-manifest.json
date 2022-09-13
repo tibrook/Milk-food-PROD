@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6b37d59.css",
+    "main.js": "/static/js/main.b0b10fe0.js",
+    "static/media/parchemin.png": "/static/media/parchemin.4c42e0fefa74c9e4b4b2.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/grass.jpg": "/static/media/grass.3a496157073a85a782ec.jpg",
+    "static/media/TaiHeritagePro-Bold.ttf": "/static/media/TaiHeritagePro-Bold.3b5a90fa33660fc82ba5.ttf",
+    "static/media/ChampagneEtLimousines.ttf": "/static/media/ChampagneEtLimousines.97e52f7c6df37667f850.ttf",
+    "index.html": "/index.html",
+    "main.b6b37d59.css.map": "/static/css/main.b6b37d59.css.map",
+    "main.b0b10fe0.js.map": "/static/js/main.b0b10fe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b37d59.css",
+    "static/js/main.b0b10fe0.js"
+  ]
+}
